@@ -7,7 +7,6 @@ FounderGPT is a chatbot trained on a custom knowledge base obtained from the You
 The chatbot was trained using the ChatGPT API and utilizes Pincone for the vector database. It has been deployed through a Streamlit application.
 
 
-You can interact with the chatbot by visiting the following link: https://hope205-foundergpt-app-x92mpa.streamlit.app/
 
 
 
